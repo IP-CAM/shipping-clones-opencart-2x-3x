@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Flat Rate 1';
+$_['heading_title']    = 'Flat Rate 2';
 
 // Text
 $_['text_shipping']    = 'Shipping';
